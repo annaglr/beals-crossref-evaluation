@@ -1,2 +1,2 @@
-# BEALS_Crossref_Evaluation
+# Evaluation BEALS Crossref
 This repository contains the evaluation of the BEALS (Boolean Emulation for Academic Literature Search) prototype, which is specifically designed to work with the Crossref API. BEALS enhances systematic literature reviews by emulating nested Boolean operators, overcoming the limitations of digital libraries' native search capabilities. The framework evaluates the prototype for completeness, correctness and performance in retrieving records, ensuring that it meets the requirements of academic research.
