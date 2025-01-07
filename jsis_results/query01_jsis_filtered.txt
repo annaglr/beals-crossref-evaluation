@@ -1,0 +1,89 @@
+Query: (strategy OR strategic) AND (technology OR digital)
+Total length of original results: 26
+
+Filtered out 2 articles based on the search terms:
+
+DOI: https://doi.org/10.1016/0963-8687(95)90007-1
+Title: Expertise and innovation: Information technology strategies in the financial services sector: R Fincham, J Fleck, R Proctor, H Scarbrough, M Tierney and R Williams Oxford University Press (1994) 334 pp £35.00 ISBN 0 19 828904 9
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/0963-8687(94)90012-4
+Title: Information technology and information systems perspectives on business strategies
+--------------------------------------------------------------------------------
+
+Filtered out 1 article because it has a different title in Crossref (Title in Crossref: Creating a business-based it strategy):
+
+DOI: https://doi.org/10.1016/0963-8687(92)90040-4
+Title: Creating a business-based it strategy: Unicorn Applied Information Technology 14 A. Brown (Editor) Chapman & Hall, London, 1992 305 pp, £65.00 ISBN 0-412-45910-8
+--------------------------------------------------------------------------------
+
+Final results (23):
+
+DOI: https://doi.org/10.1016/0963-8687(94)90011-6
+Title: Government regulation through voluntary cooperation: the strategic impact of information technology
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/0963-8687(95)80017-K
+Title: Linking information technology to business strategy at Banco Comercial Português
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/0963-8687(93)90009-Y
+Title: Causality in the alignment of information technology and business strategy
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/j.jsis.2017.09.001
+Title: Aligning with new digital strategy: A dynamic capabilities approach
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/j.jsis.2020.101642
+Title: Literature review: Understanding information systems strategy in the digital age
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/0963-8687(94)90033-7
+Title: Strategic users of information technology: a longitudinal analysis of organizational strategy and performance
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/0963-8687(93)90011-X
+Title: IT2000: A critical appraisal of Singapore's state-wide strategic planning process for information technology
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/S0963-8687(99)00025-6
+Title: Integrating market, technology, and policy opportunities in e-business strategy
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/j.jsis.2010.07.001
+Title: Paradoxical effects of institutionalisation on the strategic awareness of technology in organisations
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/j.jsis.2021.101682
+Title: Digital strategy aligning in SMEs: A dynamic capabilities perspective
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/0963-8687(94)90017-5
+Title: Strategic information technology management: Perspectives on organizational growth and competitive advantage: Rajiv D Banker, Robert J Kauffman and Mo Adam Mahmood (eds) Idea Group Publishing Harrisburg PA (1993) 704 pp $84.95 (+ $12 shipping to UK) ISBN 1 878289 16 0
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/j.jsis.2014.10.001
+Title: Modern information technology in an old workforce: Toward a strategic research agenda
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/j.jsis.2005.06.003
+Title: Resource-based view and competitive strategy: An integrated model of the contribution of information technology to firm performance
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/S0963-8687(96)80041-2
+Title: Government regulation through voluntary cooperation: a follow-up study of the strategic impact of information technology
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/S0963-8687(97)00009-7
+Title: A strategic client/server implementation: new technology, lessons from history
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/j.jsis.2018.11.003
+Title: Digital transformation strategy making in pre-digital organizations: The case of a financial services provider
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/j.jsis.2024.101853
+Title: Digital transformation of the public sector: Designing strategic information systems
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/S0963-8687(01)00044-0
+Title: An information technology trilogy: business strategy, technological deployment and organizational performance
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/j.jsis.2020.101613
+Title: The digital work of strategists: Using open strategy for organizational transformation
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/j.jsis.2005.07.004
+Title: Strategic implications of mobile technology: A case study using Value-Focused Thinking
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/S0963-8687(01)00043-9
+Title: Information technology, strategic decision making approaches and organizational performance in different industrial settings
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/S0963-8687(96)80042-4
+Title: Competing through information technology: Strategy and implementation: Prentice Hall, 1995, 298 pages. ISBN 0-13-295304-8
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/S0963-8687(17)30391-8
+Title: Call for Papers: Strategic Perspectives on Digital Work and Organizational Transformation
+--------------------------------------------------------------------------------
