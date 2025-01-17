@@ -1,0 +1,466 @@
+Total length of results: 116
+
+
+DOI: 10.25300/MISQ/2020/14477
+Title: Organized Complexity of Digital Business Strategy: A Configurational Perspective
+Publisher: MIS Quarterly
+
+DOI: 10.1016/J.JSIS.2017.09.001
+Title: Aligning with new digital strategy: A dynamic capabilities approach
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.1016/J.JSIS.2021.101682
+Title: Digital strategy aligning in SMEs: A dynamic capabilities perspective
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.25300/MISQ/2013/37:2.3
+Title: Digital Business Strategy: Toward a Next Generation of Insights
+Publisher: MIS Quarterly
+
+DOI: 10.1016/J.JSIS.2020.101642
+Title: Literature review: Understanding information systems strategy in the digital age
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.25300/MISQ/2013/37.2.14
+Title: Visions and Voices on Emerging Challenges in Digital Business Strategy
+Publisher: MIS Quarterly
+
+DOI: 10.1016/J.JSIS.2020.101613
+Title: The digital work of strategists: Using open strategy for organizational transformation
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.25300/MISQ/2013/37.2.10
+Title: Design Capital and Design Moves: The Logic of Digital Business Strategy
+Publisher: MIS Quarterly
+
+DOI: 10.1016/J.IM.2019.103262
+Title: Strategy archetypes for digital transformation: Defining meta objectives using business process management
+Publisher: Information & Management
+
+DOI: 10.25300/MISQ/2013/37.2.09
+Title: How a Firm’s Competitive Environment and Digital Strategic Posture Influence Digital Business Strategy
+Publisher: MIS Quarterly
+
+DOI: 10.1111/ISJ.12430
+Title: Navigating digital transformation through an information quality strategy: Evidence from a military organisation
+Publisher: Information Systems Journal
+
+DOI: 10.25300/MISQ/2013/37.2.13
+Title: Digital Business Strategy and Value Creation: Framing the Dynamic Cycle of Control Points
+Publisher: MIS Quarterly
+
+DOI: 10.25300/MISQ/2013/37.2.12
+Title: Content or Community? A Digital Business Strategy for Content Providers in the Social Age
+Publisher: MIS Quarterly
+
+DOI: 10.1016/J.DSS.2022.113830
+Title: Victim crisis communication strategy on digital media: A study of the COVID-19 pandemic
+Publisher: Decision Support Systems
+
+DOI: 10.2753/MIS0742-1222250408
+Title: Optimal Digital Content Distribution Strategy in the Presence of the Consumer-to-Consumer Channel
+Publisher: Journal of Management Information Systems
+
+DOI: 10.1016/J.JSIS.2018.11.003
+Title: Digital transformation strategy making in pre-digital organizations: The case of a financial services provider
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.1080/0960085X.2024.2435975
+Title: Orchestrating Digital Resilience: A Clinical IS Study of an Everything-as-a-Service Technology Strategy
+Publisher: European Journal of Information Systems
+
+DOI: 10.1080/0960085X.2023.2282454
+Title: The transformation of digital strategy and value creation in omnichannel organisations: the case of the gambling industry
+Publisher: European Journal of Information Systems
+
+DOI: 10.1016/J.IM.2024.103966
+Title: Digital human resource strategy: Conceptualization, theoretical development, and an empirical examination of its impact on firm performance
+Publisher: Information & Management
+
+DOI: 10.17705/1JAIS.00393
+Title: The Role of IS Capabilities in the Development of Multi-Sided Platforms: The Digital Ecosystem Strategy of Alibaba.com
+Publisher: Journal of the Association for Information Systems
+
+DOI: 10.1177/02683962231219515
+Title: Non-profit organisations in the digital age: A research agenda for supporting the development of a digital transformation strategy
+Publisher: Journal of Information Technology
+
+DOI: 10.1080/0960085X.2022.2102713
+Title: Digital-Enabled Strategic Agility: The Next Frontier
+Publisher: European Journal of Information Systems
+
+DOI: 10.25300/MISQ/2024/17999
+Title: Performance Implications of Digital Disruption in Strategic Competition
+Publisher: MIS Quarterly
+
+DOI: 10.1016/J.JSIS.2024.101853
+Title: Digital transformation of the public sector: Designing strategic information systems
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.1016/S0963-8687(17)30391-8
+Title: Call for Papers: Strategic Perspectives on Digital Work and Organizational Transformation
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.25300/MISQ/2022/17061
+Title: Digital Strategic Initiatives and Digital Resources: Construct Definition and Future Research Directions
+Publisher: MIS Quarterly
+
+DOI: 10.1080/0960085X.2022.2027824
+Title: Digital-enabled strategic agility: it’s time we examine the sensing of weak signals
+Publisher: European Journal of Information Systems
+
+DOI: 10.1057/JIT.1992.21
+Title: The diffusion of digital technologies in magazine print publishing: organizational change and strategic choices
+Publisher: Journal of Information Technology
+
+DOI: 10.1080/0960085X.2024.2311137
+Title: Impact of strategic capabilities on digital transformation success and firm performance: theory and empirical evidence
+Publisher: European Journal of Information Systems
+
+DOI: 10.25300/MISQ/2023/16470
+Title: Dual Pathways of Value Creation from Digital Strategic Posture: Contingent Effects of Competitive Actions and Environmental Uncertainty
+Publisher: MIS Quarterly
+
+DOI: 10.1057/JIT.2016.10
+Title: E-Leadership through Strategic Alignment: An Empirical Study of Small- and Medium-sized Enterprises in the Digital Age
+Publisher: Journal of Information Technology
+
+DOI: 10.1016/S0963-8687(96)80042-4
+Title: Competing through information technology: Strategy and implementation
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.1080/07421222.2000.11045640
+Title: Special Issue: Technology Strategy for Electronic Marketplaces
+Publisher: Journal of Management Information Systems
+
+DOI: 10.2307/249029
+Title: Information Technology and Corporate Strategy: A Research Perspective
+Publisher: MIS Quarterly
+
+DOI: 10.1016/0378-7206(94)90052-3
+Title: Marketing and technology strategy in a “medium-tech” startup
+Publisher: Information & Management
+
+DOI: 10.1287/ISRE.1.4.351
+Title: Information Technology and Corporate Strategy: A View from the Top
+Publisher: Information Systems Research
+
+DOI: 10.1016/J.IM.2021.103506
+Title: Information disclosure and blockchain technology adoption strategy for competing platforms
+Publisher: Information & Management
+
+DOI: 10.1016/0963-8687(95)80017-K
+Title: Linking information technology to business strategy at Banco Comercial Português
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.1016/S0963-8687(99)00025-6
+Title: Integrating market, technology, and policy opportunities in e-business strategy
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.1016/0963-8687(93)90009-Y
+Title: Causality in the alignment of information technology and business strategy
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.2307/25148746
+Title: Electronic Marketplaces and Price Transparency: Strategy, Information Technology, and Success
+Publisher: MIS Quarterly
+
+DOI: 10.25300/MISQ/2013/37.2.08
+Title: Information Technology and Business-Level Strategy: Toward an Integrated Theoretical Perspective
+Publisher: MIS Quarterly
+
+DOI: 10.2307/249006
+Title: Linking the Information Technology Structure with Organizational Competitive Strategy: A Survey
+Publisher: MIS Quarterly
+
+DOI: 10.1016/S0963-8687(01)00044-0
+Title: An information technology trilogy: business strategy, technological deployment and organizational performance
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.25300/MISQ/2020/14223
+Title: Corporate Strategy Changes and Information Technology Control Effectiveness in Multibusiness Firms
+Publisher: MIS Quarterly
+
+DOI: 10.1177/026839629501000305
+Title: The Responsiveness of Information Technology to Business Strategy Formulation: An Empirical Study
+Publisher: Journal of Information Technology
+
+DOI: 10.2753/MIS0742-1222240308
+Title: A Process-Oriented Perspective on the Alignment of Information Technology and Business Strategy
+Publisher: Journal of Management Information Systems
+
+DOI: 10.1016/0963-8687(94)90033-7
+Title: Strategic users of information technology: a longitudinal analysis of organizational strategy and performance
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.25300/MISQ/2016/40.1.10
+Title: How Information Technology Strategy and Investments Influence Firm Performance: Conjecture and Empirical Evidence
+Publisher: MIS Quarterly
+
+DOI: 10.1080/07421222.1990.11517880
+Title: Path Analysis of the Relationship between Competitive Strategy, Information Technology, and Financial Performance
+Publisher: Journal of Management Information Systems
+
+DOI: 10.1080/07421222.1996.11518101
+Title: Impact of Competitive Strategy and Information Technology Maturity on Firms’ Strategic Response to Globalization
+Publisher: Journal of Management Information Systems
+
+DOI: 10.1016/J.IM.2024.104057
+Title: Cutting corners as a coping strategy in information technology use: Unraveling the mind's dilemma
+Publisher: Information & Management
+
+DOI: 10.1177/026839629501000204
+Title: Linking Information Technology to Global Business Strategy to Gain Competitive Advantage: An Integrative Model
+Publisher: Journal of Information Technology
+
+DOI: 10.1080/07421222.1996.11518112
+Title: The Congruence between a Firm’s Competitive Strategy and Information Technology Leader’s Rank and Role
+Publisher: Journal of Management Information Systems
+
+DOI: 10.1057/JIT.1990.39
+Title: Audit Commission Management Papers Number 7. Preparing an Information Technology Strategy: Making IT Happen
+Publisher: Journal of Information Technology
+
+DOI: 10.1057/EJIS.1995.3
+Title: An empirical study of information technology enabled business process redesign and corporate competitive strategy
+Publisher: European Journal of Information Systems
+
+DOI: 10.1057/JIT.1988.7
+Title: Effectiveness and Competition — Linking Business Strategy, Organizational Culture and the Use of Information Technology
+Publisher: Journal of Information Technology
+
+DOI: 10.1177/026839628800300107
+Title: Effectiveness and Competition – Linking Business Strategy, Organizational Culture and the Use of Information Technology
+Publisher: Journal of Information Technology
+
+DOI: 10.1080/0960085X.2022.2139770
+Title: Technology-driven mandatory customer participation: a new recovery strategy to promote customers’ online post-recovery satisfaction
+Publisher: European Journal of Information Systems
+
+DOI: 10.1177/026839629000500310
+Title: Book Review: Audit Commission Management Papers Number 7. Preparing an Information Technology Strategy: Making IT Happen
+Publisher: Journal of Information Technology
+
+DOI: 10.1057/EJIS.2012.14
+Title: Information technology, the organizational capability of proactive corporate environmental strategy and firm performance: a resource-based analysis
+Publisher: European Journal of Information Systems
+
+DOI: 10.1057/EJIS.1994.19
+Title: An evaluation of the impact of corporate strategy and the role of information technology on IS functional outsourcing
+Publisher: European Journal of Information Systems
+
+DOI: 10.2753/MIS0742-1222280205
+Title: R&D Versus Acquisitions: Role of Diversification in the Choice of Innovation Strategy by Information Technology Firms
+Publisher: Journal of Management Information Systems
+
+DOI: 10.1016/J.JSIS.2005.06.003
+Title: Resource-based view and competitive strategy: An integrated model of the contribution of information technology to firm performance
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.1111/ISJ.12497
+Title: Strategic contexts, strategic orientations and organisational technology adoption: A configurational approach
+Publisher: Information Systems Journal
+
+DOI: 10.1057/PALGRAVE.EJIS.3000536
+Title: Strategic Knowledge Management Technology
+Publisher: European Journal of Information Systems
+
+DOI: 10.1016/0378-7206(86)90005-4
+Title: Strategic uses of information technology
+Publisher: Information & Management
+
+DOI: 10.1057/PALGRAVE.EJIS.3000550
+Title: Information Technology: Strategic Decision Making for Managers
+Publisher: European Journal of Information Systems
+
+DOI: 10.1016/0378-7206(93)90030-W
+Title: Organized and strategic utilization of information technology
+Publisher: Information & Management
+
+DOI: 10.1080/07421222.1990.11517887
+Title: Strategic Information Technology Investments: Guidelines for Decision Making
+Publisher: Journal of Management Information Systems
+
+DOI: 10.2307/249643
+Title: An Economic Analysis of Strategic Information Technology Investments
+Publisher: MIS Quarterly
+
+DOI: 10.2753/MIS0742-1222250406
+Title: Managerial Entrenchment with Strategic Information Technology: A Dynamic Perspective
+Publisher: Journal of Management Information Systems
+
+DOI: 10.1080/07421222.1990.11517886
+Title: Special Section: Competitive and Strategic Value of Information Technology
+Publisher: Journal of Management Information Systems
+
+DOI: 10.1080/07421222.2021.1912910
+Title: Special Section: Strategic Integration of Blockchain Technology into Organizations
+Publisher: Journal of Management Information Systems
+
+DOI: 10.1016/J.IM.2014.12.005
+Title: Information technology and open innovation: A strategic alignment perspective
+Publisher: Information & Management
+
+DOI: 10.1016/J.IM.2017.02.010
+Title: Strategic risk analysis for information technology outsourcing in hospitals
+Publisher: Information & Management
+
+DOI: 10.1080/07421222.1995.11518085
+Title: A Modeling Approach to Evaluating Strategic Uses of Information Technology
+Publisher: Journal of Management Information Systems
+
+DOI: 10.2307/249531
+Title: The Application of Electronic Meeting Technology to Support Strategic Management
+Publisher: MIS Quarterly
+
+DOI: 10.1057/JIT.1987.7
+Title: Applied Information Technology: from Data Processing to Strategic Information Systems
+Publisher: Journal of Information Technology
+
+DOI: 10.1016/0378-7206(94)90008-6
+Title: Facilitators and inhibitors for the strategic use of information technology
+Publisher: Information & Management
+
+DOI: 10.1016/S0963-8687(97)00009-7
+Title: A strategic client/server implementation: new technology, lessons from history
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.1287/ISRE.2019.0855
+Title: The Strategic Value of Information Technology in Setting Productive Capacity
+Publisher: Information Systems Research
+
+DOI: 10.1057/EJIS.1993.29
+Title: Associating organizational strategic performance with information technology investment: an exploratory research
+Publisher: European Journal of Information Systems
+
+DOI: 10.1016/0963-8687(94)90017-5
+Title: Strategic information technology management: Perspectives on organizational growth and competitive advantage
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.1016/0963-8687(94)90011-6
+Title: Government regulation through voluntary cooperation: the strategic impact of information technology
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.1016/0378-7206(89)90004-9
+Title: Information technology's strategic impact on the American air travel service industry
+Publisher: Information & Management
+
+DOI: 10.1016/S0167-9236(01)00134-8
+Title: Strategic actions in information technology investment based on real option theory
+Publisher: Decision Support Systems
+
+DOI: 10.1287/ISRE.2019.0883
+Title: Bloatware and Jailbreaking: Strategic Impacts of Consumer-Initiated Modification of Technology Products
+Publisher: Information Systems Research
+
+DOI: 10.1046/J.1365-2575.1998.00003.X
+Title: A new perspective on the dynamics of information technology‐enabled strategic change
+Publisher: Information Systems Journal
+
+DOI: 10.1016/J.JSIS.2010.07.001
+Title: Paradoxical effects of institutionalisation on the strategic awareness of technology in organisations
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.1016/S0378-7206(98)00075-5
+Title: Information technology and firm performance: Linking with environmental, strategic and managerial contexts
+Publisher: Information & Management
+
+DOI: 10.1016/J.JSIS.2014.10.001
+Title: Modern information technology in an old workforce: Toward a strategic research agenda
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.1016/S0378-7206(97)00023-2
+Title: Developing a model of the global and strategic impact of information technology
+Publisher: Information & Management
+
+DOI: 10.1080/07421222.2015.1099180
+Title: Strategic Relevance of Organizational Virtues Enabled by Information Technology in Organizational Innovation
+Publisher: Journal of Management Information Systems
+
+DOI: 10.1016/J.JSIS.2005.07.004
+Title: Strategic implications of mobile technology: A case study using Value-Focused Thinking
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.1016/J.IM.2007.05.005
+Title: Assessing the strategic value of Information Technology: An analysis on the insurance sector
+Publisher: Information & Management
+
+DOI: 10.1016/S0963-8687(01)00043-9
+Title: Information technology, strategic decision making approaches and organizational performance in different industrial settings
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.1016/J.IM.2022.103624
+Title: Friends or foes? Strategic technology opening and adopting under competition between technological firms
+Publisher: Information & Management
+
+DOI: 10.1016/0378-7206(94)90065-5
+Title: Strategic information technology plan: A vital component in the corporate strategies of banks
+Publisher: Information & Management
+
+DOI: 10.1080/07421222.1996.11518100
+Title: Key Dimensions of Facilitators and Inhibitors for the Strategic Use of Information Technology
+Publisher: Journal of Management Information Systems
+
+DOI: 10.1057/PALGRAVE.EJIS.3000409
+Title: The impact of information technology on financial performance: the importance of strategic choice
+Publisher: European Journal of Information Systems
+
+DOI: 10.1287/ISRE.2017.0756
+Title: Strategic Intellectual Property Sharing: Competition on an Open Technology Platform Under Network Effects
+Publisher: Information Systems Research
+
+DOI: 10.1016/0963-8687(93)90011-X
+Title: IT2000: A critical appraisal of Singapore's state-wide strategic planning process for information technology
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.1287/ISRE.2016.0659
+Title: Technology Mergers and Acquisitions in the Presence of an Installed Base: A Strategic Analysis
+Publisher: Information Systems Research
+
+DOI: 10.1016/J.IM.2021.103525
+Title: Constructing information technology (IT) portfolios to achieve enterprise strategic goals in multi-business unit firms
+Publisher: Information & Management
+
+DOI: 10.1016/J.INFOANDORG.2011.10.003
+Title: Knowledge management technology as a stage for strategic self-presentation: Implications for knowledge sharing in organizations
+Publisher: Information and Organization
+
+DOI: 10.2753/MIS0742-1222280301
+Title: Value Chain Linkages and the Spillover Effects of Strategic Information Technology Alignment: A Process-Level View
+Publisher: Journal of Management Information Systems
+
+DOI: 10.2753/MIS0742-1222230306
+Title: Strategic Alignment Between Business and Information Technology: A Knowledge-Based View of Behaviors, Outcome, and Consequences
+Publisher: Journal of Management Information Systems
+
+DOI: 10.25300/MISQ/2019/13626
+Title: How Does Strategic Alignment Affect Firm Performance? The Roles of Information Technology Investment and Environmental Uncertainty
+Publisher: MIS Quarterly
+
+DOI: 10.1016/S0963-8687(96)80041-2
+Title: Government regulation through voluntary cooperation: a follow-up study of the strategic impact of information technology
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.2307/23044052
+Title: Competing Perspectives on the Link Between Strategic Information Technology Alignment and Organizational Agility: Insights from a Mediation Model
+Publisher: MIS Quarterly
+
+DOI: 10.17705/1JAIS.00666
+Title: How Does the Positioning of Information Technology Firms in Strategic Alliances Influence Returns to R&D Investments?
+Publisher: Journal of the Association for Information Systems
+
+DOI: 10.25300/MISQ/2015/39.2.10
+Title: How Information Technology Governance Mechanisms and Strategic Alignment Influence Organizational Performance: Insights from a Matched Survey of Business and IT Managers
+Publisher: MIS Quarterly
+
+DOI: 10.1080/0960085X.2024.2390998
+Title: Achieving strategic alignment between business and information technology with information technology governance: the role of commitment to principles and Top Leadership Support
+Publisher: European Journal of Information Systems
+
+DOI: 10.2307/25148631
+Title: Operationalizing the Essential Role of the Information Technology Artifact in Information Systems Research: Gray Area, Pitfalls, and the Importance of Strategic Ambiguity
+Publisher: MIS Quarterly
+
+DOI: 10.1287/ISRE.2021.1016
+Title: Call for Papers—Special Issue of Information Systems Research —Unleashing the Power of Information Technology for Strategic Management of Disasters
+Publisher: Information Systems Research
