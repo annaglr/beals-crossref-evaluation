@@ -1,0 +1,37 @@
+(("knowledge work" OR "digital labor" OR "service" OR "digital labour") AND ("platform" OR "market" OR "outsourcing")) OR "microsourcing"
+Total length of original results: 9
+
+
+Filtered out 4 articles based on the search terms: ("platforms", "markets", "platforms", "platforms")
+
+DOI: https://doi.org/10.1016/j.jsis.2020.101597
+Title: Organizational buyers’ assimilation of B2B platforms: Effects of IT-enabled service functionality
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/j.jsis.2018.07.001
+Title: Developing and maintaining clients’ trust through institutional mechanisms in online service markets for digital entrepreneurs: A process model
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/j.jsis.2023.101791
+Title: Reconceptualizing platforms in information systems research through the lens of service-dominant logic
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/j.jsis.2021.101694
+Title: Exploring the boundaries and processes of digital platforms for knowledge work: A review of information systems research
+--------------------------------------------------------------------------------
+
+
+Final results (5):
+
+DOI: https://doi.org/10.1016/j.jsis.2005.11.002
+Title: Measuring switching costs in IT outsourcing services
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/0963-8687(93)90029-A
+Title: Market as opportunity? Case studies in outsourcing information technology and services
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/j.jsis.2010.08.001
+Title: Strategy, networks and systems in the global translation services market
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/j.jsis.2017.02.003
+Title: Conflict resolution in business services outsourcing relationships
+--------------------------------------------------------------------------------
+DOI: https://doi.org/10.1016/j.jsis.2013.02.002
+Title: From boundary spanning to creolization: A study of Chinese software and services outsourcing vendors
+--------------------------------------------------------------------------------
