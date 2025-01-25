@@ -1,4 +1,7 @@
-Total length of results: 82
+(“Artificial Intelligence” OR “substitution” OR “augmentation” OR “assemblage”) AND 
+(“ethics” OR “transparency” OR “accountability” OR “privacy” OR “maleficence” OR “justice” OR “fairness” OR “beneficence” OR “sustainability” OR “responsibility” OR “autonomy”) AND
+(“management” OR “strategy” OR “corporate strategy” OR “business strategy” OR “functional strategy” OR “planning processes” OR “strategic processes” OR “tactical processes” OR “operational processes”) 
+Total length of results: 84
 
 
 DOI: 10.1007/S43681-020-00022-3
@@ -10,11 +13,11 @@ Title: Ethics in Management Research and Artificial Intelligence
 DOI: 10.1007/978-3-030-47355-6_2
 Title: Artificial Intelligence and Ethics in Portfolio Management
 
-DOI: 10.26425/2658-3445-2021-4-1-20-28
-Title: Ethics of the application of artificial intelligence in human resource management
-
 DOI: 10.56227/22.1.15
 Title: Ethics and Artificial Intelligence in Investment Management: A Framework for Professionals
+
+DOI: 10.26425/2658-3445-2021-4-1-20-28
+Title: Ethics of the application of artificial intelligence in human resource management
 
 DOI: 10.5465/AMBPP.2021.14636ABSTRACT
 Title: Artificial Intelligence and Business Ethics: Goal Setting and Value Alignment as Management Concerns
@@ -40,11 +43,14 @@ Title: Artificial Intelligence and Local Governments: The Case of Strategic Perf
 DOI: 10.1109/SEB4SDG60871.2024.10629858
 Title: How does artificial intelligence and accountability optimises energy management and cost reduction in Nigeria’s manufacturing firms?
 
-DOI: 10.1016/J.BJA.2024.10.036
-Title: Federated learning and pain management: artificial intelligence to allow continuous learning while preserving privacy
+DOI: 10.1108/RMJ-06-2024-0013
+Title: The impact of artificial intelligence on data privacy: a risk management perspective
 
 DOI: 10.1109/TII.2021.3102471
 Title: Optimal and Privacy-Aware Resource Management in Artificial Intelligence of Things Using Osmotic Computing
+
+DOI: 10.1016/J.BJA.2024.10.036
+Title: Federated learning and pain management: artificial intelligence to allow continuous learning while preserving privacy
 
 DOI: 10.1007/978-3-031-06417-3_55
 Title: Role of Privacy Management and Human-Centered Artificial Intelligence in Driving Customer Engagement with Smart Speakers
@@ -85,26 +91,29 @@ Title: Integrating Artificial Intelligence to Enhance Sustainability in Project 
 DOI: 10.1002/AAAI.12152
 Title: AIFARMS: Artificial intelligence for future agricultural resilience, management, and sustainability
 
+DOI: 10.1051/E3SCONF/202560805019
+Title: Artificial intelligence in green management and sustainability: A bibliometric survey
+
 DOI: 10.4018/979-8-3693-5266-3.CH001
 Title: Applications of Artificial Intelligence in Environmental Resource Business Management and Sustainability
-
-DOI: 10.4108/EAI.1-9-2023.2338700
-Title: Research on Artificial Intelligence Influence towards Corporate Sustainability Strategies in Management
 
 DOI: 10.1016/B978-0-443-28993-4.00063-9
 Title: Innovation in operations: Transforming operations management with artificial intelligence and sustainability
 
+DOI: 10.4108/EAI.1-9-2023.2338700
+Title: Research on Artificial Intelligence Influence towards Corporate Sustainability Strategies in Management
+
 DOI: 10.3390/SU142114142
 Title: Saudi Arabia’s Management of the Hajj Season through Artificial Intelligence and Sustainability
+
+DOI: 10.1007/978-3-030-76583-5_6
+Title: Adoption of Artificial Intelligence Integrated Customer Relationship Management in Organizations for Sustainability
 
 DOI: 10.51859/AMPLLA.SSET.2224-15
 Title: THE USE OF ARTIFICIAL INTELLIGENCE IN EDUCATION, ENERGY MANAGEMENT, AND ENVIRONMENTAL SUSTAINABILITY
 
 DOI: 10.1016/J.HITECH.2024.100495
 Title: Artificial Intelligence Enhanced Digital Learning for the Sustainability of Education Management System
-
-DOI: 10.1007/978-3-030-76583-5_6
-Title: Adoption of Artificial Intelligence Integrated Customer Relationship Management in Organizations for Sustainability
 
 DOI: 10.2139/SSRN.5077673
 Title: Impact of Artificial Intelligence on Strategic Management Towards Sustainability: Perspective to Bangladesh
@@ -115,11 +124,11 @@ Title: Artificial Intelligence for Sustainability: Opportunities and Challenges 
 DOI: 10.2478/SBE-2023-0041
 Title: Interplays Between Artificial Intelligence and Sustainability in Business / Management. A Bibliometric Analysis
 
-DOI: 10.5220/0012498700003717
-Title: Applications of Artificial Intelligence in Sustainability Assessment and Risk Management in European Banking
-
 DOI: 10.30574/WJAETS.2024.13.2.0623
 Title: Advancing lean construction through Artificial Intelligence: Enhancing efficiency and sustainability in project management
+
+DOI: 10.5220/0012498700003717
+Title: Applications of Artificial Intelligence in Sustainability Assessment and Risk Management in European Banking
 
 DOI: 10.34306/ATT.V6I3.410
 Title: Towards Entrepreneurial Campus Sustainability: Integrating Artificial Intelligence for Resource Allocation in Business Management
@@ -163,23 +172,23 @@ Title: Sustainability risk management: Exploring the role of artificial intellig
 DOI: 10.2139/SSRN.4954702
 Title: Bems-Xai: Evolution of Building Energy Management Systems for Greater Sustainability Through Explainable Artificial Intelligence Models
 
-DOI: 10.1016/J.SFTR.2022.100068
-Title: Environmental sustainability technologies in biodiversity, energy, transportation and water management using artificial intelligence: A systematic review
-
 DOI: 10.1007/S43681-021-00114-8
 Title: Artificial intelligence in research and development for sustainability: the centrality of explicability and research data management
 
+DOI: 10.1016/J.SFTR.2022.100068
+Title: Environmental sustainability technologies in biodiversity, energy, transportation and water management using artificial intelligence: A systematic review
+
 DOI: 10.1007/978-3-031-75266-7_6
 Title: Augmenting Human Resource Management with Artificial Intelligence: From Diversity and Inclusion, and Sustainability to Neuroscience Insights
+
+DOI: 10.26480/WCM.02.2023.97.106
+Title: ENHANCING WATER SUSTAINABILITY INDEX ASSESSMENT THROUGH RISK MANAGEMENT, IOT, AND ARTIFICIAL INTELLIGENCE IN WATER OPERATION: A REVIEW
 
 DOI: 10.5267/J.IJDNS.2024.1.023
 Title: Utilization of big data and artificial intelligence on quality education management and its implications on school sustainability
 
 DOI: 10.1109/SMARTCITIES4.056956.2023.10526130
 Title: Process for Control Cost Overrun using Artificial Intelligence (AI), Earned Value Management (EVM) Analysis and Logistic Sustainability
-
-DOI: 10.26480/WCM.02.2023.97.106
-Title: ENHANCING WATER SUSTAINABILITY INDEX ASSESSMENT THROUGH RISK MANAGEMENT, IOT, AND ARTIFICIAL INTELLIGENCE IN WATER OPERATION: A REVIEW
 
 DOI: 10.33889/IJMEMS.2024.9.5.060
 Title: The Role of Applying Artificial Intelligence in Improving Supply Chain Management and Sustainability: Evidence from Egypt Ports
