@@ -1,129 +1,6 @@
+(strategy OR strategic) AND (technology OR digital) with records published in one of 11 journals (AISeL top journals)
 Total length of results: 116
 
-
-DOI: 10.25300/MISQ/2020/14477
-Title: Organized Complexity of Digital Business Strategy: A Configurational Perspective
-Publisher: MIS Quarterly
-
-DOI: 10.1016/J.JSIS.2017.09.001
-Title: Aligning with new digital strategy: A dynamic capabilities approach
-Publisher: The Journal of Strategic Information Systems
-
-DOI: 10.1016/J.JSIS.2021.101682
-Title: Digital strategy aligning in SMEs: A dynamic capabilities perspective
-Publisher: The Journal of Strategic Information Systems
-
-DOI: 10.25300/MISQ/2013/37:2.3
-Title: Digital Business Strategy: Toward a Next Generation of Insights
-Publisher: MIS Quarterly
-
-DOI: 10.1016/J.JSIS.2020.101642
-Title: Literature review: Understanding information systems strategy in the digital age
-Publisher: The Journal of Strategic Information Systems
-
-DOI: 10.25300/MISQ/2013/37.2.14
-Title: Visions and Voices on Emerging Challenges in Digital Business Strategy
-Publisher: MIS Quarterly
-
-DOI: 10.1016/J.JSIS.2020.101613
-Title: The digital work of strategists: Using open strategy for organizational transformation
-Publisher: The Journal of Strategic Information Systems
-
-DOI: 10.25300/MISQ/2013/37.2.10
-Title: Design Capital and Design Moves: The Logic of Digital Business Strategy
-Publisher: MIS Quarterly
-
-DOI: 10.1016/J.IM.2019.103262
-Title: Strategy archetypes for digital transformation: Defining meta objectives using business process management
-Publisher: Information & Management
-
-DOI: 10.25300/MISQ/2013/37.2.09
-Title: How a Firm’s Competitive Environment and Digital Strategic Posture Influence Digital Business Strategy
-Publisher: MIS Quarterly
-
-DOI: 10.1111/ISJ.12430
-Title: Navigating digital transformation through an information quality strategy: Evidence from a military organisation
-Publisher: Information Systems Journal
-
-DOI: 10.25300/MISQ/2013/37.2.13
-Title: Digital Business Strategy and Value Creation: Framing the Dynamic Cycle of Control Points
-Publisher: MIS Quarterly
-
-DOI: 10.25300/MISQ/2013/37.2.12
-Title: Content or Community? A Digital Business Strategy for Content Providers in the Social Age
-Publisher: MIS Quarterly
-
-DOI: 10.1016/J.DSS.2022.113830
-Title: Victim crisis communication strategy on digital media: A study of the COVID-19 pandemic
-Publisher: Decision Support Systems
-
-DOI: 10.2753/MIS0742-1222250408
-Title: Optimal Digital Content Distribution Strategy in the Presence of the Consumer-to-Consumer Channel
-Publisher: Journal of Management Information Systems
-
-DOI: 10.1016/J.JSIS.2018.11.003
-Title: Digital transformation strategy making in pre-digital organizations: The case of a financial services provider
-Publisher: The Journal of Strategic Information Systems
-
-DOI: 10.1080/0960085X.2024.2435975
-Title: Orchestrating Digital Resilience: A Clinical IS Study of an Everything-as-a-Service Technology Strategy
-Publisher: European Journal of Information Systems
-
-DOI: 10.1080/0960085X.2023.2282454
-Title: The transformation of digital strategy and value creation in omnichannel organisations: the case of the gambling industry
-Publisher: European Journal of Information Systems
-
-DOI: 10.1016/J.IM.2024.103966
-Title: Digital human resource strategy: Conceptualization, theoretical development, and an empirical examination of its impact on firm performance
-Publisher: Information & Management
-
-DOI: 10.17705/1JAIS.00393
-Title: The Role of IS Capabilities in the Development of Multi-Sided Platforms: The Digital Ecosystem Strategy of Alibaba.com
-Publisher: Journal of the Association for Information Systems
-
-DOI: 10.1177/02683962231219515
-Title: Non-profit organisations in the digital age: A research agenda for supporting the development of a digital transformation strategy
-Publisher: Journal of Information Technology
-
-DOI: 10.1080/0960085X.2022.2102713
-Title: Digital-Enabled Strategic Agility: The Next Frontier
-Publisher: European Journal of Information Systems
-
-DOI: 10.25300/MISQ/2024/17999
-Title: Performance Implications of Digital Disruption in Strategic Competition
-Publisher: MIS Quarterly
-
-DOI: 10.1016/J.JSIS.2024.101853
-Title: Digital transformation of the public sector: Designing strategic information systems
-Publisher: The Journal of Strategic Information Systems
-
-DOI: 10.1016/S0963-8687(17)30391-8
-Title: Call for Papers: Strategic Perspectives on Digital Work and Organizational Transformation
-Publisher: The Journal of Strategic Information Systems
-
-DOI: 10.25300/MISQ/2022/17061
-Title: Digital Strategic Initiatives and Digital Resources: Construct Definition and Future Research Directions
-Publisher: MIS Quarterly
-
-DOI: 10.1080/0960085X.2022.2027824
-Title: Digital-enabled strategic agility: it’s time we examine the sensing of weak signals
-Publisher: European Journal of Information Systems
-
-DOI: 10.1057/JIT.1992.21
-Title: The diffusion of digital technologies in magazine print publishing: organizational change and strategic choices
-Publisher: Journal of Information Technology
-
-DOI: 10.1080/0960085X.2024.2311137
-Title: Impact of strategic capabilities on digital transformation success and firm performance: theory and empirical evidence
-Publisher: European Journal of Information Systems
-
-DOI: 10.25300/MISQ/2023/16470
-Title: Dual Pathways of Value Creation from Digital Strategic Posture: Contingent Effects of Competitive Actions and Environmental Uncertainty
-Publisher: MIS Quarterly
-
-DOI: 10.1057/JIT.2016.10
-Title: E-Leadership through Strategic Alignment: An Empirical Study of Small- and Medium-sized Enterprises in the Digital Age
-Publisher: Journal of Information Technology
 
 DOI: 10.1016/S0963-8687(96)80042-4
 Title: Competing through information technology: Strategy and implementation
@@ -232,6 +109,10 @@ Publisher: Journal of Information Technology
 DOI: 10.1177/026839628800300107
 Title: Effectiveness and Competition – Linking Business Strategy, Organizational Culture and the Use of Information Technology
 Publisher: Journal of Information Technology
+
+DOI: 10.1080/0960085X.2024.2435975
+Title: Orchestrating Digital Resilience: A Clinical IS Study of an Everything-as-a-Service Technology Strategy
+Publisher: European Journal of Information Systems
 
 DOI: 10.1080/0960085X.2022.2139770
 Title: Technology-driven mandatory customer participation: a new recovery strategy to promote customers’ online post-recovery satisfaction
@@ -464,3 +345,123 @@ Publisher: MIS Quarterly
 DOI: 10.1287/ISRE.2021.1016
 Title: Call for Papers—Special Issue of Information Systems Research —Unleashing the Power of Information Technology for Strategic Management of Disasters
 Publisher: Information Systems Research
+
+DOI: 10.25300/MISQ/2020/14477
+Title: Organized Complexity of Digital Business Strategy: A Configurational Perspective
+Publisher: MIS Quarterly
+
+DOI: 10.1016/J.JSIS.2017.09.001
+Title: Aligning with new digital strategy: A dynamic capabilities approach
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.1016/J.JSIS.2021.101682
+Title: Digital strategy aligning in SMEs: A dynamic capabilities perspective
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.25300/MISQ/2013/37:2.3
+Title: Digital Business Strategy: Toward a Next Generation of Insights
+Publisher: MIS Quarterly
+
+DOI: 10.1016/J.JSIS.2020.101642
+Title: Literature review: Understanding information systems strategy in the digital age
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.25300/MISQ/2013/37.2.14
+Title: Visions and Voices on Emerging Challenges in Digital Business Strategy
+Publisher: MIS Quarterly
+
+DOI: 10.1016/J.JSIS.2020.101613
+Title: The digital work of strategists: Using open strategy for organizational transformation
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.25300/MISQ/2013/37.2.10
+Title: Design Capital and Design Moves: The Logic of Digital Business Strategy
+Publisher: MIS Quarterly
+
+DOI: 10.1016/J.IM.2019.103262
+Title: Strategy archetypes for digital transformation: Defining meta objectives using business process management
+Publisher: Information & Management
+
+DOI: 10.25300/MISQ/2013/37.2.09
+Title: How a Firm’s Competitive Environment and Digital Strategic Posture Influence Digital Business Strategy
+Publisher: MIS Quarterly
+
+DOI: 10.1111/ISJ.12430
+Title: Navigating digital transformation through an information quality strategy: Evidence from a military organisation
+Publisher: Information Systems Journal
+
+DOI: 10.25300/MISQ/2013/37.2.13
+Title: Digital Business Strategy and Value Creation: Framing the Dynamic Cycle of Control Points
+Publisher: MIS Quarterly
+
+DOI: 10.25300/MISQ/2013/37.2.12
+Title: Content or Community? A Digital Business Strategy for Content Providers in the Social Age
+Publisher: MIS Quarterly
+
+DOI: 10.1016/J.DSS.2022.113830
+Title: Victim crisis communication strategy on digital media: A study of the COVID-19 pandemic
+Publisher: Decision Support Systems
+
+DOI: 10.2753/MIS0742-1222250408
+Title: Optimal Digital Content Distribution Strategy in the Presence of the Consumer-to-Consumer Channel
+Publisher: Journal of Management Information Systems
+
+DOI: 10.1016/J.JSIS.2018.11.003
+Title: Digital transformation strategy making in pre-digital organizations: The case of a financial services provider
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.1080/0960085X.2023.2282454
+Title: The transformation of digital strategy and value creation in omnichannel organisations: the case of the gambling industry
+Publisher: European Journal of Information Systems
+
+DOI: 10.1016/J.IM.2024.103966
+Title: Digital human resource strategy: Conceptualization, theoretical development, and an empirical examination of its impact on firm performance
+Publisher: Information & Management
+
+DOI: 10.17705/1JAIS.00393
+Title: The Role of IS Capabilities in the Development of Multi-Sided Platforms: The Digital Ecosystem Strategy of Alibaba.com
+Publisher: Journal of the Association for Information Systems
+
+DOI: 10.1177/02683962231219515
+Title: Non-profit organisations in the digital age: A research agenda for supporting the development of a digital transformation strategy
+Publisher: Journal of Information Technology
+
+DOI: 10.1080/0960085X.2022.2102713
+Title: Digital-Enabled Strategic Agility: The Next Frontier
+Publisher: European Journal of Information Systems
+
+DOI: 10.25300/MISQ/2024/17999
+Title: Performance Implications of Digital Disruption in Strategic Competition
+Publisher: MIS Quarterly
+
+DOI: 10.1016/J.JSIS.2024.101853
+Title: Digital transformation of the public sector: Designing strategic information systems
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.1016/S0963-8687(17)30391-8
+Title: Call for Papers: Strategic Perspectives on Digital Work and Organizational Transformation
+Publisher: The Journal of Strategic Information Systems
+
+DOI: 10.25300/MISQ/2022/17061
+Title: Digital Strategic Initiatives and Digital Resources: Construct Definition and Future Research Directions
+Publisher: MIS Quarterly
+
+DOI: 10.1080/0960085X.2022.2027824
+Title: Digital-enabled strategic agility: it’s time we examine the sensing of weak signals
+Publisher: European Journal of Information Systems
+
+DOI: 10.1057/JIT.1992.21
+Title: The diffusion of digital technologies in magazine print publishing: organizational change and strategic choices
+Publisher: Journal of Information Technology
+
+DOI: 10.1080/0960085X.2024.2311137
+Title: Impact of strategic capabilities on digital transformation success and firm performance: theory and empirical evidence
+Publisher: European Journal of Information Systems
+
+DOI: 10.25300/MISQ/2023/16470
+Title: Dual Pathways of Value Creation from Digital Strategic Posture: Contingent Effects of Competitive Actions and Environmental Uncertainty
+Publisher: MIS Quarterly
+
+DOI: 10.1057/JIT.2016.10
+Title: E-Leadership through Strategic Alignment: An Empirical Study of Small- and Medium-sized Enterprises in the Digital Age
+Publisher: Journal of Information Technology
