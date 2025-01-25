@@ -264,8 +264,8 @@ if __name__ == "__main__":
     sub_search_query05 = AndQuery([sub_search_query03, sub_search_query04], search_field="ti")
     search_query_02 = OrQuery([sub_search_query05, "microsourcing"], search_field="ti")
 
-    # Use Case 2 refined query by including plural/ singular forms ("service", "platforms", "markets")
-    # (("knowledge work" OR "digital labor" OR "services") AND ("platform" OR "platforms" OR "market" OR "markets" OR "outsourcing")) OR "microsourcing"
+    # Use Case 2.1 refined query by including plural/ singular forms ("service", "platforms", "markets")
+    # (("knowledge work" OR "digital labor" OR "services" OR "service") AND ("platform" OR "platforms" OR "market" OR "markets" OR "outsourcing")) OR "microsourcing"
     sub_search_query20 = OrQuery(["knowledge work", "digital labor", "service", "services"], search_field="ti")
     sub_search_query21 = OrQuery(["platform", "platforms", "market", "markets", "outsourcing"], search_field="ti")
     sub_search_query22 = AndQuery([sub_search_query20, sub_search_query21], search_field="ti")
@@ -299,4 +299,4 @@ if __name__ == "__main__":
     print(f"Final number of results: {len(results)}")
 
     for rec in results[:4]:
-        print(f"\nDOI: {rec.data.get("doi")}\nTitle: {rec.data.get('title')}\n")
+        print(f"\nDOI: {rec.data.get('doi')}\nTitle: {rec.data.get('title')}\n")
