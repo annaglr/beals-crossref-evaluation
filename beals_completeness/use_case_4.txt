@@ -1,0 +1,16 @@
+(("knowledge work" OR "digital labor" OR "services") AND (("platform" AND "market") OR "outsourcing")) OR "microsourcing"  
+Total length of results: 4
+
+
+DOI: 10.1016/J.JSIS.2005.11.002
+Title: Measuring switching costs in IT outsourcing services
+--------------------------------------------------------------------------------
+DOI: 10.1016/J.JSIS.2017.02.003
+Title: Conflict resolution in business services outsourcing relationships
+--------------------------------------------------------------------------------
+DOI: 10.1016/0963-8687(93)90029-A
+Title: Market as opportunity? Case studies in outsourcing information technology and services
+--------------------------------------------------------------------------------
+DOI: 10.1016/J.JSIS.2013.02.002
+Title: From boundary spanning to creolization: A study of Chinese software and services outsourcing vendors
+--------------------------------------------------------------------------------
