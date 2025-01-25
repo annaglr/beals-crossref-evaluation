@@ -1,4 +1,4 @@
-(("knowledge work" OR "digital labor" OR "service" OR "digital labour") AND ("platform" OR "market" OR "outsourcing")) OR "microsourcing"
+(("knowledge work" OR "digital labor" OR "services" OR "digital labour") AND ("platform" OR "market" OR "outsourcing")) OR "microsourcing"
 Total length of results: 9
 
 

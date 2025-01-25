@@ -1,8 +1,8 @@
-(("knowledge work" OR "digital labor" OR "service" OR "digital labour") AND ("platform" OR "market" OR "outsourcing")) OR "microsourcing"
+(("knowledge work" OR "digital labor" OR "services" OR "digital labour") AND ("platform" OR "market" OR "outsourcing")) OR "microsourcing"
 Total length of original results: 9
 
 
-Filtered out 4 articles based on the search terms: ("platforms", "markets", "platforms", "platforms")
+Filtered out 4 articles based on the search terms: ("platforms", "markets", "service")
 
 DOI: https://doi.org/10.1016/j.jsis.2020.101597
 Title: Organizational buyers’ assimilation of B2B platforms: Effects of IT-enabled service functionality
