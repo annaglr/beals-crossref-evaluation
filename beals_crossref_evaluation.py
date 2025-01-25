@@ -4,10 +4,12 @@ from __future__ import annotations
 
 import datetime
 import logging
+import re
 import typing
 
 from colrev.packages.crossref.src import crossref_api
 from colrev.record.record import Record
+
 from search_query import AndQuery
 from search_query import OrQuery
 from search_query.query import Query
@@ -64,39 +66,37 @@ class BEALSCrossref:
         self.logger.info("Finished and retrieved %d records.", len(records))
 
         return records
-
+    
     def build_url(self, query: str) -> str:
         """Build query url."""
 
-        query = query.replace(" ", "+")
+        # query = query.replace(" ", "+")
+        # url = self._api_url + "works?" + "query.title=%22" + query + "%22"
+
+        # Add time range filter
+        # filter_date = "filter=from-pub-date:2015-01-01"
+        # url = self._api_url + "works?" + "query.title=%22" + query + "%22" + "&" + filter_date
+
+        # Add journal filter
+        # filter = "filter=issn:0167-9236,issn:0960-085X"
+        # url = self._api_url + "works?" + filter + "&" + "query.title=%22" + query + "%22"
 
         # URL with journal endpoint
-        url_journal = (
+        url = (
             self._api_url
 
             # Journal of strategic Information systems
             + "journals/0963-8687/works?"
 
-            + "query.bibliographic=%22"
+            + "query.title=%22"
             + query
             + "%22"
 
-            # Only DOI and title used for evaluation
+            # Only DOI and title are needed for evaluation
             + "&select=DOI,title"
         )
 
-        return url_journal
-
-    def _combine_results_from_children(self) -> None:
-        """Combine the records from the children (OR operator)."""
-
-        child_records = {}
-        for child in self.children:
-            for record in child.records:
-                # DOI is used as identifier for the records
-                child_records[record.data.get("doi")] = record
-
-        self.records = list(child_records.values())
+        return url
 
     def run_beals(self) -> typing.List[Record]:
         """Start BEALS."""
@@ -105,7 +105,6 @@ class BEALSCrossref:
         if not self.operator:
             # assign the results to self.records
             self.records = self.retrieve()
-            self._remove_duplicates()
 
         else:
             # recursive cases
@@ -121,7 +120,9 @@ class BEALSCrossref:
             elif self.value == "OR":
                 for child in self.children:
                     child.run_beals()
-                self._combine_results_from_children()
+
+                for child in self.children:
+                    self.records.extend(child.records)
             else:
                 # NotQuery is not implemented
                 raise ValueError("Operator is not yet supported.")
@@ -143,13 +144,19 @@ class BEALSCrossref:
                 raise ValueError("AndQuery must have at least one child.")
 
             if self.value == "AND":
+                for child in self.children:
+                    child.calculate_path()
+
                 self.path_length = min(
-                    child.calculate_path().path_length for child in self.children
+                    child.path_length for child in self.children
                 )
 
             elif self.value == "OR":
+                for child in self.children:
+                    child.calculate_path()
+
                 self.path_length = sum(
-                    child.calculate_path().path_length for child in self.children
+                    child.path_length for child in self.children
                 )
 
             else:
@@ -175,7 +182,9 @@ class BEALSCrossref:
 
         for record in record_list:
             if record.data.get("title"):
-                if term.lower() in record.data.get("title").lower():
+                if re.search(f"(^|[^a-zA-Z]){term.lower()}([^a-zA-Z]|$)",
+                             record.data.get("title").lower(),
+                             re.IGNORECASE) is not None:
                     rec_list.append(record)
 
         return rec_list
@@ -242,20 +251,52 @@ class BEALSCrossref:
 
 
 if __name__ == "__main__":
-    search_term1 = OrQuery(["disruptive", "transformation"], search_field="ti")
-    search_term2 = OrQuery(
-        ["technologies", "technological", "technology", "innovation", "innovations"],
-        search_field="ti",
-    )
-    search_query = AndQuery([search_term1, search_term2], search_field="ti")
+    # Use Case 1
+    # (strategy OR strategic) AND (technology OR digital) 
+    sub_search_query01 = OrQuery(["strategy", "strategic"], search_field="ti")
+    sub_search_query02 = OrQuery(["technology", "digital"], search_field="ti")
+    search_query_01 = AndQuery([sub_search_query01, sub_search_query02], search_field="ti")
 
-    qu10 = OrQuery(["strategy", "strategic"], search_field="ti")
-    q10 = OrQuery(["digital", "technology"], search_field="ti")
-    query1 = AndQuery([qu10, q10], search_field="ti")
+    # Use Case 2
+    # (("knowledge work" OR "digital labor" OR "services") AND ("platform" OR "market" OR "outsourcing")) OR "microsourcing"  
+    sub_search_query03 = OrQuery(["knowledge work", "digital labor", "services"], search_field="ti")
+    sub_search_query04 = OrQuery(["platform", "market", "outsourcing"], search_field="ti")
+    sub_search_query05 = AndQuery([sub_search_query03, sub_search_query04], search_field="ti")
+    search_query_02 = OrQuery([sub_search_query05, "microsourcing"], search_field="ti")
 
-    results = BEALSCrossref(query1).run_beals()
+    # Use Case 2 refined query by including plural/ singular forms ("service", "platforms", "markets")
+    # (("knowledge work" OR "digital labor" OR "services") AND ("platform" OR "platforms" OR "market" OR "markets" OR "outsourcing")) OR "microsourcing"
+    sub_search_query20 = OrQuery(["knowledge work", "digital labor", "service", "services"], search_field="ti")
+    sub_search_query21 = OrQuery(["platform", "platforms", "market", "markets", "outsourcing"], search_field="ti")
+    sub_search_query22 = AndQuery([sub_search_query20, sub_search_query21], search_field="ti")
+    search_query_02_1 = OrQuery([sub_search_query22, "microsourcing"], search_field="ti")
 
-    print(len(results))
+    # Use Case 3
+    # (“Artificial Intelligence” OR “substitution” OR “augmentation” OR “assemblage”) AND 
+    # (“ethics” OR “transparency” OR “accountability” OR “privacy” OR “maleficence” OR “justice” OR “fairness” OR “beneficence” OR “sustainability” OR “responsibility” OR “autonomy”) AND
+    # (“management” OR “strategy” OR “corporate strategy” OR “business strategy” OR “functional strategy” OR “planning processes” OR “strategic processes” OR “tactical processes” OR “operational processes”)
+    sub_search_query06 = OrQuery(["Artificial Intelligence", "substitution", "augmentation", "assemblage"], search_field="ti")
+    sub_search_query07 = OrQuery(["ethics", "transparency", "accountability", "privacy", "maleficence", "justice", 
+                                "fairness", "beneficence", "sustainability", "responsibility", "autonomy"], search_field="ti")
+    sub_search_query08 = OrQuery(["management", "strategy", "corporate strategy", "business strategy", 
+                                "functional strategy", "planning processes", "strategic processes", 
+                                "tactical processes", "operational processes"], search_field="ti")
+    search_query_03 = AndQuery([sub_search_query06, sub_search_query07, sub_search_query08], search_field="ti")
 
-    for rec in results[:20]:
+    # Use Case 4
+    # (("knowledge work" OR "digital labor" OR "services") AND (("platform" AND "market") OR "outsourcing")) OR "microsourcing"  
+    sub_search_query09 = OrQuery(["knowledge work", "digital labor", "services"], search_field="ti")
+    sub_search_query10 = AndQuery(["platform", "market"], search_field="ti")
+    sub_search_query11 = OrQuery([sub_search_query10, "outsourcing"], search_field="ti")
+    sub_search_query12 = AndQuery([sub_search_query09, sub_search_query11], search_field="ti")
+    search_query_04 = OrQuery([sub_search_query12, "microsourcing"], search_field="ti")
+
+    beals = BEALSCrossref(search_query_01)
+    beals.logger.info("Start BEALS")
+    results = beals.run_beals()
+    beals.logger.info("Finished. All records retrieved.")
+
+    print(f"Final number of results: {len(results)}")
+
+    for rec in results[:4]:
         print(f"\nDOI: {rec.data.get("doi")}\nTitle: {rec.data.get('title')}\n")
