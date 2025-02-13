@@ -110,7 +110,7 @@ class BEALSCrossref:
             # recursive cases
             # call APIXY(x).run_beals() for x in children and combine the results
             if self.value == "AND":
-                next_child = self.calculate_path()
+                next_child = self.select_child_with_lowest_yield()
                 self.records = next_child.run_beals()
 
                 for c in self.children:
@@ -131,8 +131,8 @@ class BEALSCrossref:
         return self.records
 
     # pylint: disable=inconsistent-return-statements
-    def calculate_path(self) -> BEALSCrossref:
-        """Calculate shortest path for record retrieval."""
+    def select_child_with_lowest_yield(self) -> BEALSCrossref:
+        """Estimate lowest yield."""
 
         if not self.operator:
             self.api.params = {"url": self.build_url(self.value)}
@@ -145,7 +145,7 @@ class BEALSCrossref:
 
             if self.value == "AND":
                 for child in self.children:
-                    child.calculate_path()
+                    child.select_child_with_lowest_yield()
 
                 self.path_length = min(
                     child.path_length for child in self.children
@@ -153,7 +153,7 @@ class BEALSCrossref:
 
             elif self.value == "OR":
                 for child in self.children:
-                    child.calculate_path()
+                    child.select_child_with_lowest_yield()
 
                 self.path_length = sum(
                     child.path_length for child in self.children
@@ -291,6 +291,7 @@ if __name__ == "__main__":
     sub_search_query12 = AndQuery([sub_search_query09, sub_search_query11], search_field="ti")
     search_query_04 = OrQuery([sub_search_query12, "microsourcing"], search_field="ti")
 
+    # Start BEALS
     beals = BEALSCrossref(search_query_01)
     beals.logger.info("Start BEALS")
     results = beals.run_beals()
